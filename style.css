@@ -17,7 +17,7 @@ body {
     position: absolute;
     width: 100px;
     height: 100px;
-    background-color: red;
+    background-color: yellow;
     transform: rotate(-45deg);
     box-shadow: 0 0 20px rgba(255, 0, 0, 0.8);
     animation: latido 4s infinite;
